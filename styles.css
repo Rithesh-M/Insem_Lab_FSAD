@@ -1,0 +1,9 @@
+.style{
+    text-align: center;
+    background-color: tan;
+    font-family:'Times New Roman';
+}
+nav ul{
+	display: flex;
+	gap: 20px;
+}
